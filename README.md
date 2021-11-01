@@ -1,6 +1,6 @@
 👋 Hi there, I’m @theRealSherapat 🦭 
  
-📜 Long story short: My high school IT-teacher made me fall in love with programming and coding, and I've now undertaken a BSc — and soon, hopefully by the summer of 2022, a MSc — in Informatics and Robotics at the University of Oslo.
+📜 Long story short: My high school IT-teacher made me fall in love with programming and coding, and I've now undertaken a BSc — and soon, hopefully by the summer of 2022, a MSc — in Informatics and Robotics at the University of Oslo. The rest is history.
 
 🔭🔬 I’m interested in most things, but I guess as of now my focus is mainly directed towards Computational Self-Awareness in Musical Robots (as it relates to the super-interesting field (imo), Multi-Agent Systems) — as well as (deep) Machine Learning, AI, and Computer Vision.
 
