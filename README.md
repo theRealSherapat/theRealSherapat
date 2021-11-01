@@ -1,4 +1,4 @@
-Hi there, I’m @theRealSherapat 🦭 
+Hey, (not Vsauce, but) David here 🦭 
  
 📜 Long story short: In my IT-classes the years 2015-2017, my high school IT-teacher and my exposure to programming and coding made me fall in love with it, and I've now undertaken a BSc — and soon, hopefully by the summer of 2022, a MSc — in Informatics and Robotics at the University of Oslo. The rest is history.
 
