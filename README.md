@@ -8,7 +8,7 @@ Hey, (not Vsauce, but) David here 🦭
 
 🤝 I’m looking to collaborate on my interests mentioned above. So if you are too — hit me up! :)
 
-📫 Mail me on my University e-mail: davit@ifi.uio.no
+📫 Please me on my University e-mail: davit@ifi.uio.no
 
 <!---
 theRealSherapat/theRealSherapat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
