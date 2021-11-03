@@ -1,6 +1,6 @@
 🦭 Hi there, David Thorvaldsen here
  
-📜 Long story short: During my IT-classes, the years 2015-2017, my high school IT-teacher and my exposure to programming and coding made me fall in love with it; and I've now undertaken a BSc, and soon—hopefully by the summer of 2022—a MSc, in Informatics and Robotics at the University of Oslo.
+📜 Long story short: During my IT-classes, the years 2015-2017, my high school IT-teacher and my exposure to the subject made me fall in love with programming and coding; and I've now undertaken a BSc, and soon—hopefully by the summer of 2022—a MSc, in Informatics and Robotics at the University of Oslo.
 
 🔭 I’m interested in most things, but as of now my focus is mainly directed towards Computational Self-Awareness in Musical Robots (as it relates to the super-interesting field (imo), Multi-Agent Systems) — as well as (deep) Machine Learning, AI, and Computer Vision.
 
