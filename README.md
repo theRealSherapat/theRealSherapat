@@ -1,4 +1,4 @@
-🦭 Hi there, David Thorvaldsen here
+🦭 Hi there, David Thorvaldsen here :)
  
 📜 Long story short: During my IT-classes, in the years of 2015-2017, my high school IT-teacher and my exposure to the subject made me fall in love with programming and coding; and I've now undertaken a BSc, and soon—hopefully by the summer of 2022—a MSc, in Informatics and Robotics at the University of Oslo.
 
